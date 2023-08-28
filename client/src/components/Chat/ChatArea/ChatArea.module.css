@@ -1,0 +1,12 @@
+.chatWrapper {
+    z-index: 0;
+    height: 100vh;
+    max-height: 100vh;
+    display: grid;
+    grid-template-areas: "info" "messages" "input";
+    grid-template-rows: 89px 1fr 81px;
+}
+
+
+
+
